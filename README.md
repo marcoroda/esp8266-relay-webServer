@@ -2,7 +2,7 @@
 ESP8266 Relay Module – Control AC Appliances from a web page
 
 # Wiring set-up
-![](https://github.com/marcoroda/esp8266-relay-webServer/img/wiring_setup.jpg)
+![](/img/wiring_setup.jpg)
 
 
 # References:
